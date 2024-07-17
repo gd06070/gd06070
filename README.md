@@ -1,6 +1,6 @@
 # web0716
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&section=header&text=capsule%20render&fontSize=90&height=auto" />
 <center><img src=./logo.jpg width="auto" height="200px" /></center>
 항상 사용자의 입장에서 UX 향상을 위해 노력을 하고 있는 배우리입니다.<br/><br/>
 Front-End 직무를 희망하고 있고, 패션플랫폼에서 일하는 것이 목표입니다! <br/>
