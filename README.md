@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=fadee1&height=130&section=header" />
   <img width="900px" src="https://github.com/user-attachments/assets/b462b7f4-e544-46e4-9253-6b339d68fd62" />
-  <img src="https://github-readme-stats.vercel.app/api?username=gd06070&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gd06070&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gd06070&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gd06070&layout=compact&theme=dracula" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
